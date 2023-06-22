@@ -5,7 +5,7 @@
 <p>With a focus on simplicity and clean design, this store prioritizes 
               user experience, making it easy for customers to find and purchase the product they need. </p>
 
-👉 Live Demo: <a href=''>Hk Store</a>
+👉 Live Demo: <a href='https://hkstore.sajin-rana.com/'>Hk Store</a>
 
 <h3>Build with:</h3>
 
